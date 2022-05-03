@@ -1,5 +1,11 @@
 # RENAME-PRO
 
+#Introduction
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;Start+message+with+pic!;And+More+Awsome+Features!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+</p>
+</h1>
+
 ## DEMO-BOT 👇👇
 
 [RENAME PRO ROBOT](https://t.me/Renamer_Pro_bot)
